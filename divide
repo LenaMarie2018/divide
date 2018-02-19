@@ -1,0 +1,5 @@
+def divide(a, b)
+  puts "DIVIDING #{a} / #{b}"
+  p a / b
+end
+divide (8,4)
